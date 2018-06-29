@@ -1,0 +1,8 @@
+name: LewisMines
+main: pw.andrewa.LewisMines.LewisMines
+author: AndrewAubury
+website: https://andrewa.pw
+description: Custom Mines plugin for Lewis
+commands:
+  lm:
+    description: The main command of LewisMines
